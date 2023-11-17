@@ -18,7 +18,7 @@ cp docker/laravel/.env.example docker/laravel/.env
 # OPTION 2
 # -------------------- #
 # OR clone your existing project
-https://github.com/vikramkujur/laravel-kubernetes-helm.git laravel
+https://github.com/albinvar/simple-social-media.git laravel
 #mv laravel docker/laravel
 
 # Checkout develop branch for local development purpose
